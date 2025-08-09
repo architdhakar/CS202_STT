@@ -1,3 +1,9 @@
+"""
+Simple arithmetic operations script.
+Demonstrates addition, subtraction, multiplication, and division,
+and prints results along with their types.
+"""
+
 def add(a, b):
     """Add two numbers."""
     return a + b
@@ -16,20 +22,20 @@ def divide(a, b):
         return "Error: Division by zero"
     return a / b
 
-# Example numbers
-x = 10
-y = 5
+# Example numbers (constants by pylint's convention)
+X = 10
+Y = 5
 
 # Perform operations
-sum_result = add(x, y)
-sub_result = subtract(x, y)
-mul_result = multiply(x, y)
-div_result = divide(x, y)
+SUM_RESULT = add(X, Y)
+SUB_RESULT = subtract(X, Y)
+MUL_RESULT = multiply(X, Y)
+DIV_RESULT = divide(X, Y)
 
 # Print results
-print("Addition:", sum_result, "| Type:", type(sum_result))
-print("Subtraction:", sub_result, "| Type:", type(sub_result))
-print("Multiplication:", mul_result, "| Type:", type(mul_result))
-print("Division:", div_result, "| Type:", type(div_result))
+print("Addition:", SUM_RESULT, "| Type:", type(SUM_RESULT))
+print("Subtraction:", SUB_RESULT, "| Type:", type(SUB_RESULT))
+print("Multiplication:", MUL_RESULT, "| Type:", type(MUL_RESULT))
+print("Division:", DIV_RESULT, "| Type:", type(DIV_RESULT))
 
 print("\nAll operations completed successfully!")
