@@ -1,0 +1,102 @@
+1. Student Record Management System (program1.c)
+
+Description: A program that allows adding, deleting, searching, and displaying student records (name, roll number, marks). Uses arrays and file storage (or just in-memory arrays).
+
+Why selected:
+
+Naturally requires conditionals (check if roll number exists, validate input).
+
+Uses loops (for for listing students, while for menu).
+
+Involves variable reassignments (updating marks, roll numbers).
+
+Realistic application; line count fits easily (menu-driven structure).
+
+2. Library Management System (program2.c)
+
+Description: Manages books in a small library. Supports adding books, issuing/returning books, searching by title/author, and displaying the book list.
+
+Why selected:
+
+Includes conditionals (book available or not, already issued or not).
+
+Uses loops (for to iterate over books, while for main menu).
+
+Multiple variables updated (book count, issue status).
+
+Fits within 200–300 LOC with a clear modular structure.
+
+3. Bank Management System (program3.c)
+
+Description: A program to simulate a small bank system where users can create accounts, deposit/withdraw money, and check balances.
+
+Why selected:
+
+Requires conditionals (sufficient balance check, account existence check).
+
+Uses loops (menu navigation, transaction logs).
+
+Many variables updated (balances, transactions, account IDs).
+
+Practical, widely used example, rich in logic.
+
+Task-b
+Leaders
+
+First statement in main() (menu loop start).
+
+Each case block inside switch.
+
+Each function (addStudent, displayStudents, etc.) starts a new CFG.
+
+For main(), leaders are:
+
+B0: Start, menu print.
+
+B1: switch(choice).
+
+B2: case 1 → addStudent().
+
+B3: case 2 → displayStudents().
+
+B4: case 3 → searchStudent().
+
+B5: case 4 → updateMarks().
+
+B6: case 5 → deleteStudent().
+
+B7: case 6 → exit.
+
+B8: default case.
+
+B0: print menu, scanf(choice)
+B1: switch(choice)
+B2: case 1 → addStudent()
+B3: case 2 → displayStudents()
+B4: case 3 → searchStudent()
+B5: case 4 → updateMarks()
+B6: case 5 → deleteStudent()
+B7: case 6 → exit
+B8: default → "Invalid choice!"
+
+CFG Edges
+
+Sequential: B0 → B1.
+
+Switch branches:
+
+B1 → B2
+
+B1 → B3
+
+B1 → B4
+
+B1 → B5
+
+B1 → B6
+
+B1 → B7
+
+B1 → B8
+
+After each case (except exit): edges back to B0 (menu loop).
