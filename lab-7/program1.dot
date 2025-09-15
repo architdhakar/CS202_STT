@@ -1,0 +1,29 @@
+digraph CFG {
+    node [shape=box];
+
+    B0 [label="B0:\nprint menu;\nscanf(choice);"];
+    B1 [label="B1:\nswitch(choice);"];
+    B2 [label="B2:\ncase 1: addStudent();"];
+    B3 [label="B3:\ncase 2: displayStudents();"];
+    B4 [label="B4:\ncase 3: searchStudent();"];
+    B5 [label="B5:\ncase 4: updateMarks();"];
+    B6 [label="B6:\ncase 5: deleteStudent();"];
+    B7 [label="B7:\ncase 6: exit;"];
+    B8 [label="B8:\ndefault: printf(\"Invalid choice!\");"];
+
+    B0 -> B1;
+    B1 -> B2;
+    B1 -> B3;
+    B1 -> B4;
+    B1 -> B5;
+    B1 -> B6;
+    B1 -> B7;
+    B1 -> B8;
+
+    B2 -> B0;
+    B3 -> B0;
+    B4 -> B0;
+    B5 -> B0;
+    B6 -> B0;
+    B8 -> B0;
+}
