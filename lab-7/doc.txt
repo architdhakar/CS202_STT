@@ -100,3 +100,79 @@ B1 → B7
 B1 → B8
 
 After each case (except exit): edges back to B0 (menu loop).
+
+
+
+Program 2:
+Basic Blocks
+
+B0: Print menu, get user choice.
+
+B1: switch(choice)
+
+B2: case 1 → addBook()
+
+B3: case 2 → displayBooks()
+
+B4: case 3 → searchBook()
+
+B5: case 4 → issueBook()
+
+B6: case 5 → returnBook()
+
+B7: case 6 → exit
+
+B8: default → invalid choice
+
+CFG Edges
+
+Sequential: B0 → B1
+
+Switch branches: B1 → B2..B8
+
+After execution, B2..B6, B8 return to B0
+
+B7 terminates
+
+program 3:
+Basic Blocks
+
+B0: Print menu, get choice
+
+B1: switch(choice)
+
+B2: case 1 → createAccount()
+
+B3: case 2 → displayAccounts()
+
+B4: case 3 → deposit()
+
+B5: case 4 → withdraw()
+
+B6: case 5 → checkBalance()
+
+B7: case 6 → exit
+
+B8: default → invalid choice
+
+CFG Edges
+
+Sequential: B0 → B1
+
+Switch branches: B1 → B2..B8
+
+After execution, B2..B6, B8 loop back to B0
+
+B7 terminates
+
+
+task 3:
+
+The formula is:
+CC=E−N+2
+Where:
+N = number of nodes (basic blocks).
+
+E = number of edges (control flow edges).
+
+We already have the CFGs for all three programs. Let’s compute.
