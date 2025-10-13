@@ -1,0 +1,5 @@
+/workspaces/CS202_STT/lab-9/c2_0/obj/Debug/net8.0/c2_0.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CS202_STT/lab-9/c2_0/obj/Debug/net8.0/c2_0.AssemblyInfoInputs.cache
+/workspaces/CS202_STT/lab-9/c2_0/obj/Debug/net8.0/c2_0.AssemblyInfo.cs
+/workspaces/CS202_STT/lab-9/c2_0/obj/Debug/net8.0/c2_0.csproj.CoreCompileInputs.cache
+/workspaces/CS202_STT/lab-9/c2_0/obj/Debug/net8.0/c2_0.sourcelink.json

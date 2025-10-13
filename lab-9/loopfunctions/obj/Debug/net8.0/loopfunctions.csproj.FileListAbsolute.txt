@@ -1,0 +1,15 @@
+/workspaces/CS202_STT/lab-9/loopfunctions/bin/Debug/net8.0/loopfunctions
+/workspaces/CS202_STT/lab-9/loopfunctions/bin/Debug/net8.0/loopfunctions.deps.json
+/workspaces/CS202_STT/lab-9/loopfunctions/bin/Debug/net8.0/loopfunctions.runtimeconfig.json
+/workspaces/CS202_STT/lab-9/loopfunctions/bin/Debug/net8.0/loopfunctions.dll
+/workspaces/CS202_STT/lab-9/loopfunctions/bin/Debug/net8.0/loopfunctions.pdb
+/workspaces/CS202_STT/lab-9/loopfunctions/obj/Debug/net8.0/loopfunctions.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CS202_STT/lab-9/loopfunctions/obj/Debug/net8.0/loopfunctions.AssemblyInfoInputs.cache
+/workspaces/CS202_STT/lab-9/loopfunctions/obj/Debug/net8.0/loopfunctions.AssemblyInfo.cs
+/workspaces/CS202_STT/lab-9/loopfunctions/obj/Debug/net8.0/loopfunctions.csproj.CoreCompileInputs.cache
+/workspaces/CS202_STT/lab-9/loopfunctions/obj/Debug/net8.0/loopfunctions.sourcelink.json
+/workspaces/CS202_STT/lab-9/loopfunctions/obj/Debug/net8.0/loopfunctions.dll
+/workspaces/CS202_STT/lab-9/loopfunctions/obj/Debug/net8.0/refint/loopfunctions.dll
+/workspaces/CS202_STT/lab-9/loopfunctions/obj/Debug/net8.0/loopfunctions.pdb
+/workspaces/CS202_STT/lab-9/loopfunctions/obj/Debug/net8.0/loopfunctions.genruntimeconfig.cache
+/workspaces/CS202_STT/lab-9/loopfunctions/obj/Debug/net8.0/ref/loopfunctions.dll
