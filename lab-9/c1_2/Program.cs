@@ -1,36 +1,42 @@
 ﻿using System;
-public class Program
-{
-    static void Main()
-    {
-        try
-        {
-            int i=int.MaxValue;
-            Console.WriteLine(-(i+1)-i);
-            for(i=0; i<=int.MaxValue;i++); //note semicolon here
-            Console.WriteLine("Program ended!");
-        }
-        catch(Exception ex)
-        {
-            Console.WriteLine(ex.ToString());
-        }
-    }
-}
+Console.WriteLine("int x = 3;");
+Console.WriteLine("int y = 2 + ++x;");
+int x = 3;
+int y = 2 + ++x;
+Console.WriteLine($"x = {x} and y = {y}");
+Console.WriteLine("x = 3 << 2;");
+Console.WriteLine("y = 10 >> 1;");
+x = 3 << 2;
+y = 10 >> 1;
+Console.WriteLine($"x = {x} and y = {y}");
+x = ~x;
+y = ~y;
+Console.WriteLine($"x = {x} and y = {y}");
 
 /*
 Output is:
-1
-infinite loop because of overflow in for loop
-int.MaxValue + 1 overflows and wraps around to int.MinValue.
+nt x = 3;
+int y = 2 + ++x;
+x = 4 and y = 6
+x = 3 << 2;
+y = 10 >> 1;
+x = 12 and y = 5
+x = -13 and y = -6
 
-The expression becomes -(int.MinValue) - int.MaxValue.
 
-Let M = int.MaxValue. In two's complement, int.MinValue = -M - 1.
+Reasoning:
 
-Substituting this gives: -(-M - 1) - M which simplifies to (M + 1) - M, which equals 1. So, 1 is printed.
-In the next iteration, i++ is executed. As seen before, int.MaxValue + 1 overflows and wraps around to int.MinValue.
+int y = 2 + ++x; → This uses the pre-increment operator (++x). x is first incremented from 3 to 4. Then the addition is performed: y = 2 + 4, making y = 6. This results in x = 4 and y = 6.
 
-The condition is now checked for i = int.MinValue. Since int.MinValue is less than int.MaxValue, the condition is true, and the loop continues.
+x = 3 << 2; → This is the left bitwise shift. The binary representation of 3 is 0011. Shifting left by 2 positions gives 1100, which is decimal 12. So, x becomes 12.
 
-This creates an infinite loop. The program will never exit this loop to print "Program ended!". It will consume CPU but will not crash immediately.
+y = 10 >> 1; → This is the right bitwise shift. The binary of 10 is 1010. Shifting right by 1 position gives 0101, which is decimal 5. So, y becomes 5. This results in x = 12 and y = 5.
+
+x = ~x; and y = ~y; → This is the bitwise complement operator. It inverts all bits. The formula for two's complement is ~n = -(n+1).
+
+~12 becomes -(12 + 1), which is -13.
+
+~5 becomes -(5 + 1), which is -6.
+
+This results in x = -13 and y = -6.
 */
