@@ -1,0 +1,14 @@
+C:\Users\_Astitva_Aryan_\OneDrive\Desktop\Lab10_Tests\obj\Debug\net8.0\Lab10_Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Astitva_Aryan_\OneDrive\Desktop\Lab10_Tests\obj\Debug\net8.0\Lab10_Tests.AssemblyInfoInputs.cache
+C:\Users\_Astitva_Aryan_\OneDrive\Desktop\Lab10_Tests\obj\Debug\net8.0\Lab10_Tests.AssemblyInfo.cs
+C:\Users\_Astitva_Aryan_\OneDrive\Desktop\Lab10_Tests\obj\Debug\net8.0\Lab10_Tests.csproj.CoreCompileInputs.cache
+C:\Users\_Astitva_Aryan_\OneDrive\Desktop\Lab10_Tests\bin\Debug\net8.0\Lab10_Tests.exe
+C:\Users\_Astitva_Aryan_\OneDrive\Desktop\Lab10_Tests\bin\Debug\net8.0\Lab10_Tests.deps.json
+C:\Users\_Astitva_Aryan_\OneDrive\Desktop\Lab10_Tests\bin\Debug\net8.0\Lab10_Tests.runtimeconfig.json
+C:\Users\_Astitva_Aryan_\OneDrive\Desktop\Lab10_Tests\bin\Debug\net8.0\Lab10_Tests.dll
+C:\Users\_Astitva_Aryan_\OneDrive\Desktop\Lab10_Tests\bin\Debug\net8.0\Lab10_Tests.pdb
+C:\Users\_Astitva_Aryan_\OneDrive\Desktop\Lab10_Tests\obj\Debug\net8.0\Lab10_Tests.dll
+C:\Users\_Astitva_Aryan_\OneDrive\Desktop\Lab10_Tests\obj\Debug\net8.0\refint\Lab10_Tests.dll
+C:\Users\_Astitva_Aryan_\OneDrive\Desktop\Lab10_Tests\obj\Debug\net8.0\Lab10_Tests.pdb
+C:\Users\_Astitva_Aryan_\OneDrive\Desktop\Lab10_Tests\obj\Debug\net8.0\Lab10_Tests.genruntimeconfig.cache
+C:\Users\_Astitva_Aryan_\OneDrive\Desktop\Lab10_Tests\obj\Debug\net8.0\ref\Lab10_Tests.dll

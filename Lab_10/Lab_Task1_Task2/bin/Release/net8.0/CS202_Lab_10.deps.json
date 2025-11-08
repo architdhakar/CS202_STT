@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CS202_Lab_10/1.0.0": {
+        "runtime": {
+          "CS202_Lab_10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS202_Lab_10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
