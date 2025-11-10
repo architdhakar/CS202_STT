@@ -1,0 +1,15 @@
+/workspaces/CS202_STT/Lab-11/L1_1/bin/Debug/net8.0/L1_1
+/workspaces/CS202_STT/Lab-11/L1_1/bin/Debug/net8.0/L1_1.deps.json
+/workspaces/CS202_STT/Lab-11/L1_1/bin/Debug/net8.0/L1_1.runtimeconfig.json
+/workspaces/CS202_STT/Lab-11/L1_1/bin/Debug/net8.0/L1_1.dll
+/workspaces/CS202_STT/Lab-11/L1_1/bin/Debug/net8.0/L1_1.pdb
+/workspaces/CS202_STT/Lab-11/L1_1/obj/Debug/net8.0/L1_1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CS202_STT/Lab-11/L1_1/obj/Debug/net8.0/L1_1.AssemblyInfoInputs.cache
+/workspaces/CS202_STT/Lab-11/L1_1/obj/Debug/net8.0/L1_1.AssemblyInfo.cs
+/workspaces/CS202_STT/Lab-11/L1_1/obj/Debug/net8.0/L1_1.csproj.CoreCompileInputs.cache
+/workspaces/CS202_STT/Lab-11/L1_1/obj/Debug/net8.0/L1_1.sourcelink.json
+/workspaces/CS202_STT/Lab-11/L1_1/obj/Debug/net8.0/L1_1.dll
+/workspaces/CS202_STT/Lab-11/L1_1/obj/Debug/net8.0/refint/L1_1.dll
+/workspaces/CS202_STT/Lab-11/L1_1/obj/Debug/net8.0/L1_1.pdb
+/workspaces/CS202_STT/Lab-11/L1_1/obj/Debug/net8.0/L1_1.genruntimeconfig.cache
+/workspaces/CS202_STT/Lab-11/L1_1/obj/Debug/net8.0/ref/L1_1.dll
