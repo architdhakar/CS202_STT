@@ -1,0 +1,5 @@
+/workspaces/CS202_STT/Lab-12/L1_1/obj/Debug/net8.0/L1_1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CS202_STT/Lab-12/L1_1/obj/Debug/net8.0/L1_1.AssemblyInfoInputs.cache
+/workspaces/CS202_STT/Lab-12/L1_1/obj/Debug/net8.0/L1_1.AssemblyInfo.cs
+/workspaces/CS202_STT/Lab-12/L1_1/obj/Debug/net8.0/L1_1.csproj.CoreCompileInputs.cache
+/workspaces/CS202_STT/Lab-12/L1_1/obj/Debug/net8.0/L1_1.sourcelink.json
