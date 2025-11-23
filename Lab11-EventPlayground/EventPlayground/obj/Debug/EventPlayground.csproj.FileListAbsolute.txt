@@ -1,0 +1,11 @@
+C:\Users\_Astitva_Aryan_\source\repos\EventPlayground\EventPlayground\obj\Debug\EventPlayground.csproj.AssemblyReference.cache
+C:\Users\_Astitva_Aryan_\source\repos\EventPlayground\EventPlayground\obj\Debug\EventPlayground.Form1.resources
+C:\Users\_Astitva_Aryan_\source\repos\EventPlayground\EventPlayground\obj\Debug\EventPlayground.Properties.Resources.resources
+C:\Users\_Astitva_Aryan_\source\repos\EventPlayground\EventPlayground\obj\Debug\EventPlayground.csproj.GenerateResource.cache
+C:\Users\_Astitva_Aryan_\source\repos\EventPlayground\EventPlayground\obj\Debug\EventPlayground.csproj.CoreCompileInputs.cache
+C:\Users\_Astitva_Aryan_\source\repos\EventPlayground\EventPlayground\bin\Debug\EventPlayground.exe.config
+C:\Users\_Astitva_Aryan_\source\repos\EventPlayground\EventPlayground\bin\Debug\EventPlayground.exe
+C:\Users\_Astitva_Aryan_\source\repos\EventPlayground\EventPlayground\bin\Debug\EventPlayground.pdb
+C:\Users\_Astitva_Aryan_\source\repos\EventPlayground\EventPlayground\obj\Debug\EventPlayground.exe
+C:\Users\_Astitva_Aryan_\source\repos\EventPlayground\EventPlayground\obj\Debug\EventPlayground.pdb
+C:\Users\_Astitva_Aryan_\source\repos\EventPlayground\EventPlayground\obj\Debug\EventPlayground.exe.config

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\EventPlayground\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6752A4-8133-4569-8F78-182D930132EA}|EventPlayground\\EventPlayground.csproj|c:\\users\\_astitva_aryan_\\source\\repos\\eventplayground\\eventplayground\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6752A4-8133-4569-8F78-182D930132EA}|EventPlayground\\EventPlayground.csproj|solutionrelative:eventplayground\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6752A4-8133-4569-8F78-182D930132EA}|EventPlayground\\EventPlayground.csproj|c:\\users\\_astitva_aryan_\\source\\repos\\eventplayground\\eventplayground\\coloreventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6752A4-8133-4569-8F78-182D930132EA}|EventPlayground\\EventPlayground.csproj|solutionrelative:eventplayground\\coloreventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6752A4-8133-4569-8F78-182D930132EA}|EventPlayground\\EventPlayground.csproj|c:\\users\\_astitva_aryan_\\source\\repos\\eventplayground\\eventplayground\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6752A4-8133-4569-8F78-182D930132EA}|EventPlayground\\EventPlayground.csproj|solutionrelative:eventplayground\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColorEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\EventPlayground\\EventPlayground\\ColorEventArgs.cs",
+              "RelativeDocumentMoniker": "EventPlayground\\ColorEventArgs.cs",
+              "ToolTip": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\EventPlayground\\EventPlayground\\ColorEventArgs.cs",
+              "RelativeToolTip": "EventPlayground\\ColorEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:39:59.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\EventPlayground\\EventPlayground\\Program.cs",
+              "RelativeDocumentMoniker": "EventPlayground\\Program.cs",
+              "ToolTip": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\EventPlayground\\EventPlayground\\Program.cs",
+              "RelativeToolTip": "EventPlayground\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T10:15:57.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\EventPlayground\\EventPlayground\\Form1.cs",
+              "RelativeDocumentMoniker": "EventPlayground\\Form1.cs",
+              "ToolTip": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\EventPlayground\\EventPlayground\\Form1.cs",
+              "RelativeToolTip": "EventPlayground\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T10:24:59.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

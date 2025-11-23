@@ -1,0 +1,11 @@
+C:\Users\_Astitva_Aryan_\source\repos\OrderPipeline\OrderPipeline\obj\Debug\OrderPipeline.csproj.AssemblyReference.cache
+C:\Users\_Astitva_Aryan_\source\repos\OrderPipeline\OrderPipeline\obj\Debug\OrderPipeline.Form1.resources
+C:\Users\_Astitva_Aryan_\source\repos\OrderPipeline\OrderPipeline\obj\Debug\OrderPipeline.Properties.Resources.resources
+C:\Users\_Astitva_Aryan_\source\repos\OrderPipeline\OrderPipeline\obj\Debug\OrderPipeline.csproj.GenerateResource.cache
+C:\Users\_Astitva_Aryan_\source\repos\OrderPipeline\OrderPipeline\obj\Debug\OrderPipeline.csproj.CoreCompileInputs.cache
+C:\Users\_Astitva_Aryan_\source\repos\OrderPipeline\OrderPipeline\bin\Debug\OrderPipeline.exe.config
+C:\Users\_Astitva_Aryan_\source\repos\OrderPipeline\OrderPipeline\bin\Debug\OrderPipeline.exe
+C:\Users\_Astitva_Aryan_\source\repos\OrderPipeline\OrderPipeline\bin\Debug\OrderPipeline.pdb
+C:\Users\_Astitva_Aryan_\source\repos\OrderPipeline\OrderPipeline\obj\Debug\OrderPipeline.exe
+C:\Users\_Astitva_Aryan_\source\repos\OrderPipeline\OrderPipeline\obj\Debug\OrderPipeline.pdb
+C:\Users\_Astitva_Aryan_\source\repos\OrderPipeline\OrderPipeline\obj\Debug\OrderPipeline.exe.config

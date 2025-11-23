@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\OrderPipeline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F23216-3516-4D33-9765-76A77926FD68}|OrderPipeline\\OrderPipeline.csproj|c:\\users\\_astitva_aryan_\\source\\repos\\orderpipeline\\orderpipeline\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F23216-3516-4D33-9765-76A77926FD68}|OrderPipeline\\OrderPipeline.csproj|solutionrelative:orderpipeline\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F23216-3516-4D33-9765-76A77926FD68}|OrderPipeline\\OrderPipeline.csproj|c:\\users\\_astitva_aryan_\\source\\repos\\orderpipeline\\orderpipeline\\shipeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F23216-3516-4D33-9765-76A77926FD68}|OrderPipeline\\OrderPipeline.csproj|solutionrelative:orderpipeline\\shipeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F23216-3516-4D33-9765-76A77926FD68}|OrderPipeline\\OrderPipeline.csproj|c:\\users\\_astitva_aryan_\\source\\repos\\orderpipeline\\orderpipeline\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44F23216-3516-4D33-9765-76A77926FD68}|OrderPipeline\\OrderPipeline.csproj|solutionrelative:orderpipeline\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F23216-3516-4D33-9765-76A77926FD68}|OrderPipeline\\OrderPipeline.csproj|c:\\users\\_astitva_aryan_\\source\\repos\\orderpipeline\\orderpipeline\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F23216-3516-4D33-9765-76A77926FD68}|OrderPipeline\\OrderPipeline.csproj|solutionrelative:orderpipeline\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F23216-3516-4D33-9765-76A77926FD68}|OrderPipeline\\OrderPipeline.csproj|c:\\users\\_astitva_aryan_\\source\\repos\\orderpipeline\\orderpipeline\\ordereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F23216-3516-4D33-9765-76A77926FD68}|OrderPipeline\\OrderPipeline.csproj|solutionrelative:orderpipeline\\ordereventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\OrderPipeline\\OrderPipeline\\Form1.cs",
+              "RelativeDocumentMoniker": "OrderPipeline\\Form1.cs",
+              "ToolTip": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\OrderPipeline\\OrderPipeline\\Form1.cs",
+              "RelativeToolTip": "OrderPipeline\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:13:29.762Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\OrderPipeline\\OrderPipeline\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "OrderPipeline\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\OrderPipeline\\OrderPipeline\\Form1.Designer.cs",
+              "RelativeToolTip": "OrderPipeline\\Form1.Designer.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwG4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T16:36:30.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\OrderPipeline\\OrderPipeline\\Form1.cs",
+              "RelativeDocumentMoniker": "OrderPipeline\\Form1.cs",
+              "ToolTip": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\OrderPipeline\\OrderPipeline\\Form1.cs [Design]",
+              "RelativeToolTip": "OrderPipeline\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T16:33:34.283Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShipEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\OrderPipeline\\OrderPipeline\\ShipEventArgs.cs",
+              "RelativeDocumentMoniker": "OrderPipeline\\ShipEventArgs.cs",
+              "ToolTip": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\OrderPipeline\\OrderPipeline\\ShipEventArgs.cs",
+              "RelativeToolTip": "OrderPipeline\\ShipEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T16:28:06.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\OrderPipeline\\OrderPipeline\\OrderEventArgs.cs",
+              "RelativeDocumentMoniker": "OrderPipeline\\OrderEventArgs.cs",
+              "ToolTip": "C:\\Users\\_Astitva_Aryan_\\source\\repos\\OrderPipeline\\OrderPipeline\\OrderEventArgs.cs",
+              "RelativeToolTip": "OrderPipeline\\OrderEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T15:12:26.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
